@@ -1,9 +1,4 @@
-/*
-Jamie Singleton
-CSCI 136
-PROJECT 3A: COUTNING LUMBER
-This program lets the dwarf collect 100 lumber within 18 hours
-*/
+
 
 #include <cstdlib>
 #include <cmath>
