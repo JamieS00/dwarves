@@ -1,5 +1,3 @@
-
-
 #include <cstdlib>
 #include <cmath>
 #include <iostream>
@@ -11,7 +9,7 @@ const int MAX_ROWS = 40;
 const int MAX_COLS = 40;
 const int MAX_NUM = 10;
 
-int ROWS;  // global variables
+int ROWS;  
 int COLS;
 int NUM;
 
@@ -57,7 +55,7 @@ Parameters:
 void onStart(int rows, int cols, int num, std::ostream &log) {
   log << "Start!" << endl; // Print a greeting message
 
-  ROWS = rows; // Save values in global variables
+  ROWS = rows; 
   COLS = cols;
   NUM = num;
 }
